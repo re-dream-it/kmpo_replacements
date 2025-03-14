@@ -292,10 +292,12 @@ form {
     margin: 0 auto;
 }
 
+.form-title{
+    margin-top: 50px;
+}
+
 .form-group, .form-group-cb {
     margin-bottom: 20px; /* Увеличил отступ между группами */
-}
-.form-group-cb {
     display: block;
     align-items: center;
 }
